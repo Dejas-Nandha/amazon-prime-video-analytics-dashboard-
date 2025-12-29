@@ -1,5 +1,3 @@
-# amazon-prime-video-analytics-dashboard-
-Power BI dashboard analyzing Amazon Prime Video content
 # Amazon Prime Video Content Analysis Dashboard (Power BI)
 
 ## Project Overview
