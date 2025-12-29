@@ -59,3 +59,9 @@ Aspiring Data Analyst (Portfolio Project)
 
 ## 📊 Dataset Source
 Public Amazon Prime Video dataset (used for educational and portfolio purposes only)
+
+## ▶️ How to View the Dashboard
+1. Download the `.pbix` file from this repository
+2. Open it using Power BI Desktop
+3. Interact with the dashboard visuals and filters
+
