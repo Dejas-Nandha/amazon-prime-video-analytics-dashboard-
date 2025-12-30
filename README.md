@@ -39,7 +39,7 @@ The dataset used in this project contains information about Amazon Prime Video t
 - Data Visualization
 
 ## 📷 Dashboard Preview
-![Amazon Prime Video Dashboard](overview.png)
+[![Amazon Prime Video Dashboard](overview.png)](https://github.com/Dejas-Nandha/amazon-prime-video-analytics-dashboard-/blob/main/Overview.png?raw=true)
 
 ## 🎯 Business Insights
 - Identifies dominant content ratings on Prime Video
